@@ -1,0 +1,21 @@
+//2_09
+
+// mTwo forward slasjes are user to denote a comment
+// All text on the same line is a part of the comment
+// There must be no spaces between the slashes. for example
+// the code  "/ /" is not a comment and will cause an error
+
+// If you want to have a comment thtat is many
+// lines long you may perfer to use the syntax for a
+// multiline commeny
+
+/* 
+a forward slash followed by an asterisk allows
+the comment to continue until the opposite
+*/
+
+// All letters and symbols that are not comments are run
+// by the computer. because teh following lines are not comment
+// they are run and draw a display window of 200 x 200 pixels
+size(200,00);
+backround(102);
