@@ -1,0 +1,12 @@
+//PE1_3_44
+
+noStroke();
+rectMode(RADIUS);
+fill(126);
+rect(40,40,60,60); // Gray square
+fill(255);
+rectMode(CORNER);
+rect(40,40,60,60);//White square
+fill(0);
+rectMode(CORNERS);
+rect(40,40,60,60); // black square
