@@ -1,0 +1,10 @@
+//PE1_3_04
+
+//Points with the same x and Y parameters
+//are drawn on a diagonal axis froom the
+// upper-left corner to the lower right
+point(20, 20);
+point(30, 30);
+point(40, 40);
+point(50, 50);
+point(60, 60);
